@@ -1,12 +1,16 @@
 Razza,aspettativa_di_vita_media,peso_medio
-Golden Retriever,11,65
-Bassotto,14,24
-Labrador Retriever,11,67
-Alano,9,142
-Boxer,11,65
-Dalmata,12,57
-Barboncino,14,12
-Bullmastiff,8,115
-Beagle,12,22
-Husky,14,21
+Golden Retriever,11,44
+Bassotto,14,12
+Labrador Retriever,11,43
+Alano,9,44
+Boxer,12,44
+Dalmata,12,32
+Barboncino,14,10
+Bullmastiff,8,67
+Beagle,13,17
+Husky,13,33
 Pastore tedesco,12,31
+Border Collie,14,24
+Levriero,12,46
+Cocker,13,20
+Rottweiler,10,59
