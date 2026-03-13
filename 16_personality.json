@@ -1,0 +1,81 @@
+{
+  "name": "The 16 Personality Types",
+  "children": [
+    {
+      "name": "guardian",
+      "children": [
+        {
+          "name": "administrator",
+          "children": [
+            { "name": "ISTJ" },
+            { "name": "ESTJ" }
+          ]
+        },
+        {
+          "name": "conservator",
+          "children": [
+            { "name": "ISFJ" },
+            { "name": "ESFJ" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "artisan",
+      "children": [
+        {
+          "name": "entertainer",
+          "children": [
+            { "name": "ESFP" },
+            { "name": "ISFP" }
+          ]
+        },
+        {
+          "name": "operator",
+          "children": [
+            { "name": "ESTP" },
+            { "name": "ISTP" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "idealist",
+      "children": [
+        {
+          "name": "mentor",
+          "children": [
+            { "name": "INFJ" },
+            { "name": "ENFJ" }
+          ]
+        },
+        {
+          "name": "advocate",
+          "children": [
+            { "name": "INFP" },
+            { "name": "ENFP" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rational",
+      "children": [
+        {
+          "name": "coordinator",
+          "children": [
+            { "name": "INTJ" },
+            { "name": "ENTJ" }
+          ]
+        },
+        {
+          "name": "engineer",
+          "children": [
+            { "name": "INTP" },
+            { "name": "ENTP" }
+          ]
+        }
+      ]
+    }
+  ]
+}
