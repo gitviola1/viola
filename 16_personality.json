@@ -2,77 +2,141 @@
   "name": "PERSONALITIES",
   "children": [
     {
-      "name": "guardian",
+      "name": "sentinels",
       "children": [
         {
-          "name": "administrator",
+          "name": "thinking",
           "children": [
-            { "name": "ISTJ" },
-            { "name": "ESTJ" }
+            { 
+              "name": "ISTJ" 
+            "description": "Logistician."
+            "traits": " Introverted, Observant, Thinking, Judging "
+            },
+            { 
+              "name": "ESTJ" 
+              "description":"Executive"
+              "traits": " Extraverted, Observant, Thinking, Judging"
+            }
           ]
         },
         {
-          "name": "conservator",
+          "name": "feeling",
           "children": [
-            { "name": "ISFJ" },
-            { "name": "ESFJ" }
+            { 
+              "name": "ISFJ" 
+              "description":"Defender"
+              "traits": " Introverted, Observant, Feeling, Judging "
+            },
+            { 
+              "name": "ESFJ" 
+              "description":"Consul"
+              "traits": "  Extraverted, Observant, Feeling, and Judging "
+            }
           ]
         }
       ]
     },
     {
-      "name": "artisan",
+      "name": "explorers",
       "children": [
         {
-          "name": "entertainer",
+          "name": "feeling",
           "children": [
-            { "name": "ESFP" },
-            { "name": "ISFP" }
+            { 
+              "name": "ESFP" 
+              "description":"Entertainer"
+              "traits": "Extraverted, Observant, Feeling, Judging"
+            },
+            { 
+              "name": "ISFP" 
+              "description":"Adventurer"
+              "traits": "Introverted, Observant, Feeling, Prospecting"
+            }
           ]
         },
         {
-          "name": "operator",
+          "name": "thinking",
           "children": [
-            { "name": "ESTP" },
-            { "name": "ISTP" }
+            { 
+              "name": "ESTP" 
+              "description":"Entrepreneur"
+              "traits": "Extraverted, Observant, Thinking, Prospecting"
+            },
+            { 
+              "name": "ISTP" 
+              "description":"Virtuoso"
+              "traits": " Introverted, Observant, Thinking, Prospecting"
+            }
           ]
         }
       ]
     },
     {
-      "name": "idealist",
+      "name": "diplomats",
       "children": [
         {
-          "name": "mentor",
+          "name": "judging",
           "children": [
-            { "name": "INFJ" },
-            { "name": "ENFJ" }
+            { 
+              "name": "INFJ" 
+              "description":"Advocate"
+              "traits": "Introverted, Intuitive, Feeling, Judging"
+            },
+            { 
+              "name": "ENFJ" 
+              "description":"Protagonist"
+              "traits": "Extraverted, Intuitive, Feeling, Judging"
+            }
           ]
         },
         {
-          "name": "advocate",
+          "name": "prospecting",
           "children": [
-            { "name": "INFP" },
-            { "name": "ENFP" }
+            { 
+              "name": "INFP" 
+              "description":"Mediator"
+              "traits":"Introverted, Intuitive, Feeling, Prospecting"
+            },
+            { 
+              "name": "ENFP" 
+              "description":"Campaigner"
+              "traits":"Extraverted, Intuitive, Feeling, Prospecting "
+            }
           ]
         }
       ]
     },
     {
-      "name": "rational",
+      "name": "analysts",
       "children": [
         {
-          "name": "coordinator",
+          "name": "judging",
           "children": [
-            { "name": "INTJ" },
-            { "name": "ENTJ" }
+            { 
+              "name": "INTJ" 
+              "description":"Architect"
+              "traits":"Introverted, Intuitive, Thinking, Judging"
+            },
+            { 
+              "name": "ENTJ" 
+              "description":"Commander"
+              "traits":"Extraverted, Intuitive, Thinking, Judging"
+            }
           ]
         },
         {
-          "name": "engineer",
+          "name": "prospecting",
           "children": [
-            { "name": "INTP" },
-            { "name": "ENTP" }
+            { 
+              "name": "INTP" 
+              "description":"Logician"
+              "traits":"Introverted, Intuitive, Thinking, Prospecting"
+            },
+            { 
+              "name": "ENTP" 
+              "description":"Debater"
+              "traits":"Extraverted, Intuitive, Thinking, Prospecting"
+            }
           ]
         }
       ]
