@@ -1,8 +1,8 @@
 Specie,KM_Percorsi_Medi,Mese_Partenza,Mese_Arrivo,Soste_Riposo_Medie,Durata_Ore_Media,Dimensione_Media_Stormo,Causa_Migrazione,Luogo_Partenza,Luogo_Arrivo
-Crane (Gru),5000,September,November,8,110,120.0,Riproduzione e Clima,"Siberia, Russia",India Settentrionale
-Eagle (Aquila),3000,October,December,3,65,1.2,Svernamento e Cibo,Canada Settentrionale,USA Meridionali
-Goose (Oca),4000,September,November,6,85,50.0,Fuga dal Gelo,"Alaska, USA",Messico
-Hawk (Falco),4500,September,October,4,80,2.5,Caccia Stagionale,Scandinavia,Nord Africa
-Stork (Cicogna),11000,August,November,12,210,45.0,Ricerca di Zone Umide,Europa Orientale,Sud Africa
-Swallow (Rondine),9500,September,November,18,190,900.0,Ricerca Insetti,Europa Settentrionale,Africa Centrale
-Warbler (Capinera),7500,August,October,15,160,25.0,Ricerca Insetti,Canada Orientale,Sud America
+Gru,5000,sett,nov,8,110,120.0,Riproduzione e Clima,"Siberia, Russia",India Settentrionale
+Aquila,3000,ott,dic,3,65,1.2,Svernamento e Cibo,Canada Settentrionale,USA Meridionali
+Oca,4000,sett,nov,6,85,50.0,Fuga dal Gelo,"Alaska, USA",Messico
+Falco,4500,sett,ott,4,80,2.5,Caccia Stagionale,Scandinavia,Nord Africa
+Cicogna,11000,ago,nov,12,210,45.0,Ricerca di Zone Umide,Europa Orientale,Sud Africa
+Rondine,9500,sett,nov,18,190,900.0,Ricerca Insetti,Europa Settentrionale,Africa Centrale
+Capinera,7500,ago,ott,15,160,25.0,Ricerca Insetti,Canada Orientale,Sud America
