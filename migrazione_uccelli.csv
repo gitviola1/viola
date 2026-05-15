@@ -6,3 +6,14 @@ Falco,4500,sett,ott,4,80,3,Caccia Stagionale,Scandinavia,Nord Africa
 Cicogna,11000,ago,nov,12,210,45.0,Ricerca di Zone Umide,Europa Orientale,Sud Africa
 Rondine,9500,sett,nov,18,190,500.0,Ricerca Insetti,Europa Settentrionale,Africa Centrale
 Capinera,7500,ago,ott,15,160,25.0,Ricerca Insetti,Canada Orientale,Sud America
+Sterna Artica,71000,sett,mar,10,720,200.0,Ricerca Estate Artica,Groenlandia,Antartide
+Piovanello,15000,ago,ott,5,300,150.0,Ricerca Zone Costiere,Artico Canadese,Sud America
+Fenicottero,2500,sett,nov,7,70,300.0,Ricerca Acque Calde,Europa Meridionale,Nord Africa
+Pellicano Bianco,4200,sett,nov,6,95,80.0,Ricerca Pesce,Balcani,Africa Orientale
+Airone Cenerino,3000,ott,dic,5,75,20.0,Ricerca Zone Umide,Europa Centrale,Nord Africa
+Albatro Urlatore,16000,nov,feb,2,400,15.0,Ricerca Correnti Oceaniche,Nord Pacifico,Oceano Australe
+Gabbiano Reale,2200,ott,nov,4,60,60.0,Ricerca Cibo Costiero,Europa Settentrionale,Mediterraneo
+Anatra Codone,4800,sett,nov,7,100,120.0,Svernamento,"Canada, USA",America Centrale
+Usignolo,6500,ago,ott,12,140,10.0,Ricerca Insetti,Europa Centrale,Africa Sub-sahariana
+Spatola Bianca,3700,sett,nov,5,88,35.0,Ricerca Zone Umide,Europa Occidentale,Africa Occidentale
+Rondine,9500,sett,nov,18,190,500.0,Ricerca Insetti,Europa Settentrionale,Africa Centrale
