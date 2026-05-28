@@ -1,14 +1,14 @@
 Specie,KM_Percorsi_Medi,Mese_Partenza,Mese_Arrivo,Soste_Riposo_Medie,Durata_Ore_Media,Dimensione_Media_Stormo,Causa_Migrazione,Luogo_Partenza,Luogo_Arrivo
-Gru,5000,sett,nov,8,110,120.0,Riproduzione e Clima,"Siberia, Russia",India Settentrionale
-Aquila,3000,ott,dic,3,65,2,Svernamento e Cibo,Canada Settentrionale,USA Meridionali
-Oca,4000,sett,nov,6,85,50.0,Fuga dal Gelo,"Alaska, USA",Messico
-Falco,4500,sett,ott,4,80,3,Caccia Stagionale,Scandinavia,Nord Africa
-Cicogna,11000,ago,nov,12,210,45.0,Ricerca di Zone Umide,Europa Orientale,Sud Africa
-Rondine,9500,sett,nov,18,190,500.0,Ricerca Insetti,Europa Settentrionale,Africa Centrale
-Capinera,7500,ago,ott,15,160,25.0,Ricerca Insetti,Canada Orientale,Sud America
-Fenicottero,2500,sett,nov,7,70,300.0,Ricerca Acque Calde,Europa Meridionale,Nord Africa
-Pellicano Bianco,4200,sett,nov,6,95,80.0,Ricerca Pesce,Balcani,Africa Orientale
 Airone Cenerino,3000,ott,dic,5,75,20.0,Ricerca Zone Umide,Europa Centrale,Nord Africa
-Gabbiano Reale,2200,ott,nov,4,60,60.0,Ricerca Cibo Costiero,Europa Settentrionale,Mediterraneo
 Anatra Codone,4800,sett,nov,7,100,120.0,Svernamento,"Canada, USA",America Centrale
+Aquila,3000,ott,dic,3,65,2,Svernamento e Cibo,Canada Settentrionale,USA Meridionali
+Capinera,7500,ago,ott,15,160,25.0,Ricerca Insetti,Canada Orientale,Sud America
+Cicogna,11000,ago,nov,12,210,45.0,Ricerca di Zone Umide,Europa Orientale,Sud Africa
+Falco,4500,sett,ott,4,80,3,Caccia Stagionale,Scandinavia,Nord Africa
+Fenicottero,2500,sett,nov,7,70,300.0,Ricerca Acque Calde,Europa Meridionale,Nord Africa
+Gabbiano Reale,2200,ott,nov,4,60,60.0,Ricerca Cibo Costiero,Europa Settentrionale,Mediterraneo
+Gru,5000,sett,nov,8,110,120.0,Riproduzione e Clima,"Siberia, Russia",India Settentrionale
+Oca,4000,sett,nov,6,85,50.0,Fuga dal Gelo,"Alaska, USA",Messico
+Pellicano Bianco,4200,sett,nov,6,95,80.0,Ricerca Pesce,Balcani,Africa Orientale
+Rondine,9500,sett,nov,18,190,500.0,Ricerca Insetti,Europa Settentrionale,Africa Centrale
 Usignolo,6500,ago,ott,12,140,10.0,Ricerca Insetti,Europa Centrale,Africa Sub-sahariana
